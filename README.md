@@ -1,43 +1,55 @@
 # ```RecodeTeam-Api```
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm pino modz 😇 </h1>
 <p align="center">
-<a href="https://github.com/PinoRecode/followers"><img title="Followers" src="https://img.shields.io/github/followers/PinoCoders?color=red&style=flat-square"></a>
-<a href="https://github.com/PinoRecode/api-PinoCoders/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PinoCoders/api-PinoCoders?color=blue&style=flat-square"></a>
-<a href="https://github.com/PinoRecode/api-PinoCoders/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PinoCoders/api-PinoCoders?color=red&style=flat-square"></a>
-<a href="https://github.com/PinoRecode/api-PinoCoders/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PinoCoders/api-PinoCoders?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/PinoRecode/Rest-api-RecodeTeam"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/PinoRecode/Rest-api-RecodeTeam/"><img title="Size" src="https://img.shields.io/github/repo-size/PinoCoders/Rest-api-RecodeTeam?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPinoCoders%2FRest-api-RecodeTeam&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/PinoRecode/Rest-api-RecodeTeam/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
-<p align="center">
-  <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
+  <img src="https://d.top4top.io/p_2059mc6d10.png" />
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 17 years old 
+- 👼 My name is Pino 
+- 🍼 I am 16 years old 
 - 🔭 I am not programmer
 
-## ```Connect with me```
+<h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/PinoCoders"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://instagram.com/xnoob_ganz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://api.whatsapp.com/send/?phone=6285869484139&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://github.com/PinoRecode"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/c/PINOMODZ"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=PinoCoders&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=PinoCoders&color=blue&style=flat-square&label=Profile+Dilihat" />
-
+  <a href="https://www.youtube.com/channel/UCMnOhcDe_-8yE9jobx-JenA"><img src="https://img.shields.io/youtube/channel/subscribers/UCMnOhcDe_-8yE9jobx-JenA?style=social" /> <br>
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/c/PINOMODZ"><img src="https://f.top4top.io/p_207542cfh1.jpg" />
-</p>
 
+![Profile Dilihat](https://komarev.com/ghpvc/?username=pinomodz&color=blue&style=flat-square&label=Profile+Dilihat)
+### Stats:
+
+<p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api?username=PinoRecode&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/PinoRecode"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoRecode&theme=radical&layout=compact"></a></p> 
+
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=ABOUT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=home-termux-pinomod&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=Bot-Wa&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PinoRecode&repo=self&theme=nightowl)
+
+
+<p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/PinoRecode?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+
+</details>
 
 ## ```Api Features```
 
